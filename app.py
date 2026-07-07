@@ -31,5 +31,5 @@ def predict(data:LoanRequest):
         result = "Loan Rejected"
         
     return{
-        "prediction":result
+        "prediction":resul
     }         
